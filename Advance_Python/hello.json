@@ -1,0 +1,26 @@
+{
+    "states": [
+        {
+            "name":"Madhu",
+            "abbrevation":"AI",
+            "area_codes":["205","251","256","334"]
+        },
+        {
+            "name":"Manisha",
+            "abbrevation":"HTML",
+            "area_codes":["203","204","206","208"]
+        },
+        {
+            "name":"Monu",
+            "abbrevation":"PHP",
+            "area_codes":["402","408","407","409"]
+        },
+        {
+            "name":"Yashovrdhna",
+            "abbrevation":"AI",
+            "area_codes":["205","251","256","334"]
+        }
+
+    ]
+
+}
